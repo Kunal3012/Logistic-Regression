@@ -107,7 +107,7 @@ pip install pandas scikit-learn jupyter
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/titanic-survival-prediction.git
+git clone https://github.com/Kunal3012/titanic-survival-prediction.git
 ```
 
 2. Navigate to the project directory:
@@ -141,7 +141,7 @@ The logistic regression model is trained on the Titanic dataset using Python's s
 
 ## Results
 
-The model achieved an accuracy of XX% on the test set, indicating its ability to predict survival outcomes based on the given features.
+The model achieved an accuracy of 77.09% on the test set, indicating its ability to predict survival outcomes based on the given features.
 
 ## Contributing
 
